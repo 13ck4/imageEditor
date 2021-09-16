@@ -5,22 +5,22 @@ Get perfect shadow every time for the non-designer.
 
 # Installation 
 
-`npm i imageEditor --save`
+`npm i imageeditorcreate --save`
 
 Then... 
 
 ```
-var imageEditor = require('imageEditor')
+var imageEditorCreate = require('imageeditorcreate')
 
 ------
 step1: ***** load library javascript **** 
-            imageEditor.createEditor({load: true})
+            imageEditorCreate.createEditor({load: true})
 -----
 
 -----
 step2: create editor image
 
-    npmimageEditor.createEditor({
+    imageEditorCreate.createEditor({
         id: "tui-image-editor-container",
         srcImage: srcImage, 
         locale_Ja: locale_Ja,
@@ -35,7 +35,7 @@ step2: create editor image
 
 ## Options
 
-borderNPM supports 9 options, both of which are optional:
+imageEditorCreate supports 9 options, both of which are optional:
 * *load*                  -_boolean
 
 

@@ -1,0 +1,19 @@
+{
+  "name": "imageeditorcreate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/13ck4/imageEditor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13ck4/imageEditor/issues"
+  },
+  "homepage": "https://github.com/13ck4/imageEditor#readme"
+}
