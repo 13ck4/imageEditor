@@ -27,7 +27,7 @@ function createEditor(options){
             "header.display": "none",
         };
 
-        var initMenu = 'filter';
+        var initMenu = false;
         var menuBarPosition =  'bottom';
         var width = 700;
         var height = 500;
